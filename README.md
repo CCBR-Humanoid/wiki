@@ -8,13 +8,12 @@ We are a team of students building an **open-source humanoid robot** with modula
 Our goal is to create a shared platform that lowers the barrier to humanoid robotics research and development.
 
 ### Objectives
-- Develop a fully functional **bipedal humanoid** capable of walking.
-- Create an **open-source platform** for modular humanoid design.
-- Enable research in **robot control**, **planning**, and **hardware design**.
-- Advance the state of the art in humanoid robotics for education and research.
+- Develop a cheap, fully functional **bipedal humanoid** capable of walking
+- Create a modular mechanical and electrical platform capable of supporting a library of different components (eg, swappable grippers / feet)
+- Build an open-source community to advance education and research in humanoid development
 
-## Currently: Breaking a Leg
-We plan to start by creating the leg. Our goals for the leg are that:
+## Currently: Designing a Modular Leg
+We plan to start by creating the leg, which we believe will be helpful for rapid development and in setting the stage to achieve full-body modularity. Our goals for the leg are that:
 - The leg can work in both quadrupedal and bipedal settings.
 - Has easily swappable components—sensors, motors, etc.
 - We also want a robust method to estimate the load capacity of any busts the leg would support.
