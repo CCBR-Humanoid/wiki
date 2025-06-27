@@ -1,5 +1,5 @@
 ## Open-Source Humanoid Project
-Caltech, Columbia, Berkeley, Rutgers (CCBR)
+A collaboration between Caltech, Columbia, Berkeley, Rutgers (CCBR)
 
 <img src="https://github.com/user-attachments/assets/38926b09-3791-4f6d-ab38-10d959024f7e" width="300" />
 
@@ -9,8 +9,8 @@ Our goal is to create a shared platform that lowers the barrier to humanoid robo
 
 ### Objectives
 - Develop a cheap, fully functional **bipedal humanoid** capable of walking
-- Create a modular mechanical and electrical platform capable of supporting a library of different components (eg, swappable grippers / feet)
-- Build an open-source community to advance education and research in humanoid development
+- Create a **modular mechanical and electrical platform** capable of supporting a library of different components (eg, swappable grippers / feet)
+- Build an **open-source community** to advance education and research in humanoid development
 
 ## Currently: Designing a Modular Leg
 We plan to start by creating the leg, which we believe will be helpful for rapid development and in setting the stage to achieve full-body modularity. Our goals for the leg are that:
@@ -21,9 +21,7 @@ We plan to start by creating the leg, which we believe will be helpful for rapid
 The most important implication is that we want to design a standard mechanical and electrical attachment interface at our different joints (ankle, knee, hip).
 
 ### Ankle modularity
-We want to support modular foot geometries:
-- Flat pad, gripper toes, wheels, etc.
-- Change sensors - Pressure pads, full 6-axis F/T, etc.
+We want to support modular foot geometries (flat pad, gripper toes, wheels, ...) as well as easily swappable motors and sensors (pressure pads, full 6-axis F/T, ...)
 
 ### Knee modularity
 We also want to support modular knees which will facilitate easier transformations between bipeds and quadrupeds, only requiring a knee replacement rather than an entirely new leg.
