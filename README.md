@@ -44,3 +44,5 @@ While we are currently working on the leg, we plan to integrate it first into ge
 Then in the fall, we plan to develop a human torso which can attach onto the quadruped, creating a "centaur" design capable of manipulation tasks using our quadrupedal base. 
 
 By next year, we hope to integrate them all into a working humanoid.
+
+This website is built using [Docusaurus](https://docusaurus.io/) under the MIT License.
