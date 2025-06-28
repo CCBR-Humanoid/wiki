@@ -50,7 +50,7 @@ By next year, we hope to integrate them all into a working humanoid.
 
 ## 🤝 Get Involved
 
-Ready to contribute? Check out our [Contributing Guide](./contribute/contribute) to get started!
+Ready to contribute? Check out our [Contributing Guide](./contribute/contribute.md) to get started!
 
 - **Hardware Development**: Help with mechanical design, electronics, and modular interfaces
 - **Software Development**: Contribute to control systems, simulation, and documentation

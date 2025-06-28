@@ -38,7 +38,7 @@ function HomepageHeader() {
             }
           `}
         </style>
-        <a href="/docs/home">
+        <a href="/wiki/docs/home">
           <button className="getStartedBtn">
             Get Started
           </button>
