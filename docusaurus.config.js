@@ -119,19 +119,24 @@ const config = {
             label: 'Software',
           },
           {
+            to: '/blog',
+            position: 'left',
+            label: 'Blog',
+          },
+          {
+            to: '/blog/authors',
+            position: 'left',
+            label: 'Our Team',
+          },
+          {
             to: '/docs/contribute',
             position: 'left',
             label: 'Contribute',
           },
           {
-            to: '/blog',
-            label: 'Blog',
-            position: 'left'
-          },
-          {
             href: 'https://github.com/CCBR-Humanoid/wiki',
-            label: 'GitHub',
             position: 'right',
+            label: 'GitHub',
           },
         ],
       },
