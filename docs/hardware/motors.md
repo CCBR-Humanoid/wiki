@@ -1,4 +1,0 @@
-# Motors & Actuators
-
-## Overview
-

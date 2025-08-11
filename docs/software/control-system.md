@@ -1,5 +1,0 @@
-# Control Policy
-
-## Overview
-
-TODO
